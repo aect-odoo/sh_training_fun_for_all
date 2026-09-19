@@ -1,8 +1,0 @@
-numpy
-fastapi
-uvicorn
-psycopg2-binary
-torch
-open_clip_torch
-pillow
-python-multipart
